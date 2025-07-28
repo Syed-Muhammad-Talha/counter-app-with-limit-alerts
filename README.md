@@ -12,8 +12,7 @@ A beginner-friendly Counter App built using **HTML**, **CSS**, and **JavaScript*
 
 ## 📸 Preview
 
-![Counter App Screenshot](screenshot.png)  
-*(Add your own screenshot if available)*
+![Counter App Screenshot](screenshot.png)
 
 ## 📁 Folder Structure
 
